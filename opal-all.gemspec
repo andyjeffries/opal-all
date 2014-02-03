@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Opal::All::VERSION
   spec.authors       = ["Andy Jeffries"]
   spec.email         = ["andy@andyjeffries.co.uk"]
-  spec.summary       = %q{A Meta-Gem for including the most useful/common Opal gems}
+  spec.summary       = %q{A Gem for including the most useful/common Opal gems in one line}
   spec.description   = %q{This gem simply includes opal, opal-rails, opal-jquery, opal-sprockets and opal-activesupport, making it easy to bring the most common Opal gems in to a Rails project}
   spec.homepage      = ""
   spec.license       = "MIT"

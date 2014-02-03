@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-This is just the same as adding the following to your Gemfile, but given that it's common to use them all together, I made a meta-gem to include them all in one line in your Gemfile.
+This is just the same as adding the following to your Gemfile, but given that it's common to use them all together, I made a gem to include them all in one line in your Gemfile.
+
+```ruby
+gem "opal", "0.5.5"
+gem "opal-jquery", "0.1.2"
+gem "opal-activesupport", "0.0.5"
+gem "opal-rails", "0.6.2"
+gem "opal-sprockets", "0.3.0"
+```
 
 ## Contributing
 
